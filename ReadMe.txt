@@ -1,14 +1,11 @@
 ================================================================================
-MICROSOFT 基础类库: Nonlinear_Filtering 项目概述
+Introduction for Nonlinear_Filtering
 ===============================================================================
 
-应用程序向导已为您创建了这个 Nonlinear_Filtering 应用程序。此应用程序不仅演示 Microsoft 基础类的基本使用方法，还可作为您编写应用程序的起点。
-
-本文件概要介绍组成 Nonlinear_Filtering 应用程序的每个文件的内容。
+This is a demo for the performance comparison of different Kalman filters. All rights reserved by Xin-Chun Zhang.
 
 Nonlinear_Filtering.vcxproj
-这是使用应用程序向导生成的 VC++ 项目的主项目文件。 
-它包含生成该文件的 Visual C++ 的版本信息，以及有关使用应用程序向导选择的平台、配置和项目功能的信息。
+It is the main file compiled by VC++ compiler, including the compile platform, configuration and functions. etc.
 
 Nonlinear_Filtering.vcxproj.filters
     这是使用“应用程序向导”生成的 VC++ 项目筛选器文件。
