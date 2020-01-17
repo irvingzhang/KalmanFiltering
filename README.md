@@ -1,12 +1,12 @@
 # KalmanFiltering
 
 This is a demo for the performance comparison of different kinds of Kalman filters. All rights reserved by Xin-Chun Zhang.
-It can be compiled by Visual Studio 2010 and 2012. And the complied executable file can be downloaded via http://download.csdn.net/detail/irving8/5634877. If there is any question, please don't hesiate to contact me! My personal e-mail address is : irving_zhang@163.com, and my linkin address is : https://www.linkedin.com/in/鑫春-张-625b6497  
+It can be compiled by Visual Studio 2010 and 2012. And the complied executable file can be downloaded via http://download.csdn.net/detail/irving8/5634877. If there is any question, please don't hesiate to contact me! My personal e-mail address is : irving_zhang@163.com.
 
 ******
 
-Of course, you are suggested to read the following articles for the better understanding of Kalman filtering algorithms:
-******  
+Of course, you are suggested to read the following articles for better understanding of Kalman filtering algorithms:  
+
 
 [1] X. C. Zhang, C. J. Guo, "Cubature Kalman filters: Derivation and extension," *Chinses Physics B*, vol.22, no.12, 128401, DOI: 10.1088/1674-1056/22/12/128401  
 
